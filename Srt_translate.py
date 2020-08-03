@@ -16,7 +16,7 @@ face = '''
         |          Coded by SAM355              |
         |                                       |
         |    Email:  salio.blue@gmail.com       |
-        |                                       |                 
+        |    mohtarami.seyedali@gmail.com       |                 
         |  We take no responsibilities for the  |
         |  use of this program                  |
         +---------------------------------------+
@@ -25,8 +25,6 @@ face = '''
                    
    
         '''
-
-
 from googletrans import Translator
 import arabic_reshaper
 try:
