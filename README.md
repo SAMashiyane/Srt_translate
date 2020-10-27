@@ -1,13 +1,15 @@
 # Srt_translate
 This script supports subtitle translation
 Please follow these steps:
-1. Convert SRT file to txt file.
-2.Select the language required for translation in program According to below (This argument will be added in the next version)
-3.
+-----------------------------
+ Convert SRT file to txt file.
+ -----------------------------
+Select the language required for translation in program According to below (This argument will be added in the next version)
+--------------------------------------------------------------------------------------------------------------------------------
 Abbreviation  | LANGUAGES
 ------------- | -------------
     "af"      | 'afrikaans'
-
+-----------------------------
 LANGUAGES = {
     'af': 'afrikaans'و    'sq': 'albanian',    'am': 'amharic',    'ar': 'arabic',    'hy': 'armenian',    'az': 'azerbaijani',    'eu': 'basque',    'be': 'belarusian',
     'bn': 'bengali',    'bs': 'bosnian',    'bg': 'bulgarian',    'ca': 'catalan',    'ceb': 'cebuano',    'ny': 'chichewa',    'zh-cn': 'chinese (simplified)',    'zh-tw': 'chinese (traditional)',
