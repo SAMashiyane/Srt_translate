@@ -7,9 +7,9 @@ Please follow these steps:
 Select the language required for translation in program According to below (This argument will be added in the next version)
 --------------------------------------------------------------------------------------------------------------------------------
 Abbreviation  | LANGUAGES
-------------- | -------------
+------------- | ------------
     "af"      | 'afrikaans'
------------------------------
+--------------|--------------
 LANGUAGES = {
     'af': 'afrikaans'و    'sq': 'albanian',    'am': 'amharic',    'ar': 'arabic',    'hy': 'armenian',    'az': 'azerbaijani',    'eu': 'basque',    'be': 'belarusian',
     'bn': 'bengali',    'bs': 'bosnian',    'bg': 'bulgarian',    'ca': 'catalan',    'ceb': 'cebuano',    'ny': 'chichewa',    'zh-cn': 'chinese (simplified)',    'zh-tw': 'chinese (traditional)',
@@ -24,5 +24,8 @@ LANGUAGES = {
     'sw': 'swahili',    'sv': 'swedish',    'tg': 'tajik',    'ta': 'tamil',    'te': 'telugu',    'th': 'thai',    'tr': 'turkish',    'uk': 'ukrainian',    'ur': 'urdu',    'uz': 'uzbek',
     'vi': 'vietnamese',    'cy': 'welsh',    'xh': 'xhosa',    'yi': 'yiddish',    'yo': 'yoruba',    'zu': 'zulu',    'fil': 'Filipino',    'he': 'Hebrew'
 }
-4.Convert output.txt---> output.srt 
-5.enjoy!!
+
+Convert output.txt---> output.srt 
+----------------------------------
+enjoy!!
+-----------
