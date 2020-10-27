@@ -9,7 +9,8 @@ Select the language required for translation in program According to below (This
 Abbreviation  | LANGUAGES
 ------------- | ------------
     "af"      | 'afrikaans'
---------------|--------------
+|
+-----------------------------
 LANGUAGES = {
     'af': 'afrikaans'و    'sq': 'albanian',    'am': 'amharic',    'ar': 'arabic',    'hy': 'armenian',    'az': 'azerbaijani',    'eu': 'basque',    'be': 'belarusian',
     'bn': 'bengali',    'bs': 'bosnian',    'bg': 'bulgarian',    'ca': 'catalan',    'ceb': 'cebuano',    'ny': 'chichewa',    'zh-cn': 'chinese (simplified)',    'zh-tw': 'chinese (traditional)',
